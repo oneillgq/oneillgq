@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Godot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/oneillgq](https://github.com/oneillgq)
+- 👨‍💻 All of my projects are available right here (scroll down!)
 
 - 💬 Ask me about **Magic: The Gathering (my favorite game)**
 
