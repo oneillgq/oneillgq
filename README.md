@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Aidan O'Neill</h1>
 <h3 align="center">A student studying info systems and computer science at Boston College.</h3>
 
-- 🔭 I’m currently working on **making a video game!**
+- 🔭 I’m currently working on **Robotics!**
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **PyCharm**
 
 - 👨‍💻 All of my projects are available right here (scroll down!)
 
