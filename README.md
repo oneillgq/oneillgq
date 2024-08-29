@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oneillgq@bc.edu**
 
-- 📄 Know about my experiences [https://github.com/oneillgq/oneillgq/blob/main/Aidan%20O'Neill%20Internship%20Resume.docx.pdf](https://github.com/oneillgq/oneillgq/blob/main/Aidan%20O'Neill%20Internship%20Resume.docx.pdf)
+- 📄 Know about my experiences [[https://github.com/oneillgq/oneillgq/blob/main/Aidan%20O'Neill%20Internship%20Resume.docx.pdf](https://github.com/oneillgq/oneillgq/blob/main/Aidan%20O'Neill%20Internship%20Resume%20CURRENT.docx.pdf)](https://github.com/oneillgq/oneillgq/blob/main/Aidan%20O'Neill%20Internship%20Resume.docx.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/oneillgq/oneillgq/blob/main/Rlogo.png" alt="R" width="40" height="40"/> </a> </p>
