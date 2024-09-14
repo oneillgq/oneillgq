@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Robotics!**
 
-- 🌱 I’m currently learning **PyCharm**
+- 🌱 I’m currently learning **PyCharm/CircuitPython**
 
 - 👨‍💻 All of my projects are available right here (scroll down!)
 
-- 💬 Ask me about **Magic: The Gathering (my favorite game)**
+- 💬 Ask me about **Magic: The Gathering (my favorite game!)**
 
 - 📫 How to reach me **oneillgq@bc.edu**
 
