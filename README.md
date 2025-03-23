@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Aidan O'Neill</h1>
 <h3 align="center">A student studying info systems and computer science at Boston College.</h3>
 
-- 🔭 I’m currently working on **Robotics!**
+- 🔭 I’m currently working on **xv6**
 
-- 🌱 I’m currently learning **PyCharm/CircuitPython**
+- 🌱 I’m currently learning about **Operating Systems**
 
 - 👨‍💻 All of my projects are available right here (scroll down!)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oneillgq@bc.edu**
 
-- 📄 Know about my experiences [https://github.com/oneillgq/oneillgq/blob/main/aidan_oneill_resume_2025.pdf]
+- 📄 Know about my experiences [https://github.com/oneillgq/oneillgq/blob/main/aidan_resume_2025.pdf]
 
 <h3 align="left">Languages in Projects Below:</h3>
 <p align="left">
