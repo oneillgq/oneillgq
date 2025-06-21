@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Magic: The Gathering (my favorite game!)**
 
-- 📫 How to reach me **oneillgq@bc.edu**
+- 📫 How to reach me **aidanenzooneill@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/oneillgq/oneillgq/blob/main/aidanenzooneill_resume.pdf]
 
