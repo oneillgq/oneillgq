@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oneillgq@bc.edu**
 
-- 📄 Know about my experiences [https://github.com/oneillgq/oneillgq/blob/main/aidan_resume_2025.pdf]
+- 📄 Know about my experiences [https://github.com/oneillgq/oneillgq/blob/main/aidanenzooneill_resume.pdf]
 
 <h3 align="left">Languages in Projects Below:</h3>
 <p align="left">
